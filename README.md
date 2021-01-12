@@ -1,0 +1,23 @@
+- Git as VCS
+- .NET 5 as Framework
+- REST as API styling
+- Entity Framework Core as ORM
+- SQL Server as RDBMS
+- Elastic as Search Engine
+- Memory, Redis as cache providers
+- MongoDB as Non-relational DBMS
+- gRPC as internal communications
+- AutoMapper as Object Mapper
+- xUnit as unit testing framework
+- Moq as Mocking framework
+- FluentAssertions as Assertion Framework
+- FluentValidation as Validation Framework
+- WebApplicationFactory as Integration Testing
+- *RabbitMQ as Message Broker
+- *MassTransit as Message Bus
+- Ocelot as API Gateway
+- *Kubernetes as Orchestration provider
+- *TeamCity as CI/CD tool
+- *Razor as template Engine
+- Grafana as observable dashboard
+- Prometheus as metric provider
